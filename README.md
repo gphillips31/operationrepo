@@ -9,3 +9,7 @@ def make_introduction(name, age):
     
 
 git commit -am "better readme"
+
+git status
+
+git push
