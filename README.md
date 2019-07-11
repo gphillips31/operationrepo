@@ -3,6 +3,7 @@ My first repo in IMT 511
 
 Welcome! THis is a _repo_ for **IMT511**
 
+[About Me](https://www.linkedin.com/in/graysonphillips/)
 
 ## The purpose 
 
