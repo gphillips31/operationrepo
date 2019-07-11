@@ -3,6 +3,12 @@ My first repo in IMT 511
 
 Welcome! THis is a _repo_ for **IMT511**
 
+import Image
+
+image = Image.open('download.jpeg')
+
+image.show()
+
 ## The purpose 
 
 The purpose of this repo is to demonstrate how git works, 
