@@ -8,8 +8,9 @@ def make_introduction(name, age):
     print(msg)
     
 
-git commit -am "better readme"
+1) git status
 
-git status
 
-git push
+2) git commit -am "better readme"
+
+3) git push
