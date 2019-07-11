@@ -3,7 +3,7 @@ My first repo in IMT 511
 
 Welcome! THis is a _repo_ for **IMT511**
 
-[About Me](https://www.linkedin.com/in/graysonphillips/)
+![Operation' Repo](250px-OperationRepo.jpg)
 
 ## The purpose 
 
@@ -34,3 +34,4 @@ _**bold**_
 
 Markdown Text:
 
+[About Me](https://www.linkedin.com/in/graysonphillips/)
