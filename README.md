@@ -1,16 +1,34 @@
 # operationrepo
 My first repo in IMT 511
 
+Welcome! THis is a _repo_ for **IMT511**
+
+## The purpose 
+
+The purpose of this repo is to demonstrate how git works, 
+and how markdown work.
+
+Feel free to copy and play with this repo.
+
+
 This is just a demo repo for the course
 
-def make_introduction(name, age):
-    msg = "Hi, name is " + name + " and I am " + age + " years old"
-    print(msg)
+## Markdown Syntax
+
+### Bullet list
     
+Instructions to commit:
 
-1) git status
+* 1) git status
+
+* 2) git commit -am "better readme"
+
+* 3) git push
 
 
-2) git commit -am "better readme"
+_italic_ **bold**
 
-3) git push
+_**bold**_
+
+Markdown Text:
+
